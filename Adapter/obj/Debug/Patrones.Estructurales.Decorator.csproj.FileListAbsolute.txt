@@ -1,0 +1,7 @@
+C:\Users\idra14\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\idra14\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\idra14\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\idra14\source\repos\ConsoleApp1\obj\Debug\Patrones.Estructurales.Decorator.csproj.AssemblyReference.cache
+C:\Users\idra14\source\repos\ConsoleApp1\obj\Debug\Patrones.Estructurales.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\idra14\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\idra14\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
